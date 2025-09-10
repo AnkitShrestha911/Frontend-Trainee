@@ -1,6 +1,6 @@
 ## 🚀 Getting Started
 
-### Website Live https://vercel.com/ankit-shresthas-projects/frontend-trainee
+### Website Live https://frontend-trainee.vercel.app/
 
 1. ### Clone Repository
 
